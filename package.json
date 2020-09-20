@@ -1,0 +1,24 @@
+{
+  "name": "messaging",
+  "version": "1.0.0",
+  "description": "practice for sockets",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cody-Hayes97/messaging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cody-Hayes97/messaging/issues"
+  },
+  "homepage": "https://github.com/Cody-Hayes97/messaging#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0"
+  }
+}
